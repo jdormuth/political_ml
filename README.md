@@ -1,2 +1,2 @@
 # political_ml
-Using machine learning to discerning political information from Twitter data.
+Using machine learning to discern political information from Twitter data.
